@@ -27,7 +27,6 @@ vless://e6f4e063-0e35-40c4-8afa-b688909e534f@47.76.37.57:80?encryption=none&secu
 vless://e6f4e063-0e35-40c4-8afa-b688909e534f@209.250.234.187:80?encryption=none&security=none&type=ws&host=hello-world-dawn-credit-d14b.tinover.workers.dev&path=%2F#24K_cf_DE_2620
 vless://e6f4e063-0e35-40c4-8afa-b688909e534f@8.222.150.197:80?encryption=none&security=none&type=ws&host=hello-world-dawn-credit-d14b.tinover.workers.dev&path=%2F#test1
 vless://e6f4e063-0e35-40c4-8afa-b688909e534f@190.93.247.37:80?encryption=none&security=none&type=ws&host=hello-world-dawn-credit-d14b.tinover.workers.dev&path=%2F#cf_190.93.247.37
-vless://e6f4e063-0e35-40c4-8afa-b688909e534f@130.162.61.18:80?encryption=none&security=none&type=ws&host=hello-world-dawn-credit-d14b.tinover.workers.dev&path=%2F#AS37963.txt
 vless://e6f4e063-0e35-40c4-8afa-b688909e534f@185.176.24.133:80?encryption=none&security=none&type=ws&host=hello-world-dawn-credit-d14b.tinover.workers.dev&path=%2F#cf_20240112_censys_EU_%E7%AB%8B%E9%99%B6%E5%AE%9B-%3E%E7%BE%8E%E5%9B%BD%E5%8D%8E%E7%9B%9B%E9%A1%BF%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E7%89%B9%E5%8C%BA%20Cloudflare
 vless://e6f4e063-0e35-40c4-8afa-b688909e534f@146.70.92.153:80?encryption=none&security=none&type=ws&host=hello-world-dawn-credit-d14b.tinover.workers.dev&path=%2F#32K_cf_DK_US
 vless://e6f4e063-0e35-40c4-8afa-b688909e534f@179.43.156.38:80?encryption=none&security=none&type=ws&host=hello-world-dawn-credit-d14b.tinover.workers.dev&path=%2F#cf_CH_2429
