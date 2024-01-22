@@ -7,3 +7,4 @@ vless://e6f4e063-0e35-40c4-8afa-b688909e534f@146.70.92.153:80?encryption=none&se
 vless://e6f4e063-0e35-40c4-8afa-b688909e534f@188.34.198.206:80?encryption=none&security=none&type=ws&host=hello-world-dawn-credit-d14b.tinover.workers.dev&path=%2F#32K_cf_DE_1203
 vless://e6f4e063-0e35-40c4-8afa-b688909e534f@172.232.56.181:80?encryption=none&security=none&type=ws&host=hello-world-dawn-credit-d14b.tinover.workers.dev&path=%2F#80K_cf_FR_US
 vless://e6f4e063-0e35-40c4-8afa-b688909e534f@142.171.52.166:80?encryption=none&security=none&type=ws&host=hello-world-dawn-credit-d14b.tinover.workers.dev&path=%2F#46K_prefferd_cf_US_1829
+vless://e6f4e063-0e35-40c4-8afa-b688909e534f@104.16.73.141:80?encryption=none&security=none&type=ws&host=hello-world-dawn-credit-d14b.tinover.workers.dev&path=%2F#33K_ZhiXuanWang1
