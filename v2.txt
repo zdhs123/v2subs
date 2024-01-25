@@ -1,9 +1,7 @@
 vless://7676d7e5-9673-4157-87fa-fc50bf759736@64.112.43.219:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=douyin.com&fp=chrome&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&type=tcp&headerType=none#%7CGY2n.love%40xray.com
 vless://e6f4e063-0e35-40c4-8afa-b688909e534f@91.235.234.82:80?encryption=none&security=none&type=ws&host=hello-world-dawn-credit-d14b.tinover.workers.dev&path=%2F#27K_cf_EE_683
-vless://e6f4e063-0e35-40c4-8afa-b688909e534f@172.232.56.181:80?encryption=none&security=none&type=ws&host=hello-world-dawn-credit-d14b.tinover.workers.dev&path=%2F#20240123
 trojan://565808ebeb@120.204.94.118:4000?security=tls&type=tcp&headerType=none&host=vip.sd.hk.amovie.net#120.204.94.118
 vless://e6f4e063-0e35-40c4-8afa-b688909e534f@47.76.33.40:80?encryption=none&security=none&type=ws&host=hello-world-dawn-credit-d14b.tinover.workers.dev&path=%2F#AS37963.txt
-vless://e6f4e063-0e35-40c4-8afa-b688909e534f@47.245.10.77:80?encryption=none&security=none&type=ws&host=hello-world-dawn-credit-d14b.tinover.workers.dev&path=%2F#20240123
 trojan://8cd6725efc@download1.jptk.dl.amovie.net:443?security=tls&type=tcp&headerType=none&host=download1.jptk.dl.amovie.net#download1.jptk.dl.amovie.net
 vless://e6f4e063-0e35-40c4-8afa-b688909e534f@91.149.239.62:80?encryption=none&security=none&type=ws&host=hello-world-dawn-credit-d14b.tinover.workers.dev&path=%2F#35K_prefferd_cf_US_2482
 vless://e6f4e063-0e35-40c4-8afa-b688909e534f@47.245.59.188:80?encryption=none&security=none&type=ws&host=hello-world-dawn-credit-d14b.tinover.workers.dev&path=%2F#20240123
@@ -18,7 +16,6 @@ vless://e6f4e063-0e35-40c4-8afa-b688909e534f@47.76.32.108:80?encryption=none&sec
 vless://e6f4e063-0e35-40c4-8afa-b688909e534f@130.162.61.18:80?encryption=none&security=none&type=ws&host=hello-world-dawn-credit-d14b.tinover.workers.dev&path=%2F#20240123
 vless://e6f4e063-0e35-40c4-8afa-b688909e534f@168.138.212.74:80?encryption=none&security=none&type=ws&host=hello-world-dawn-credit-d14b.tinover.workers.dev&path=%2F#test1
 vless://e6f4e063-0e35-40c4-8afa-b688909e534f@132.145.121.125:80?encryption=none&security=none&type=ws&host=hello-world-dawn-credit-d14b.tinover.workers.dev&path=%2F#test1
-vless://e6f4e063-0e35-40c4-8afa-b688909e534f@146.70.92.153:80?encryption=none&security=none&type=ws&host=hello-world-dawn-credit-d14b.tinover.workers.dev&path=%2F#20240123
 vless://e6f4e063-0e35-40c4-8afa-b688909e534f@74.91.29.205:80?encryption=none&security=none&type=ws&host=hello-world-dawn-credit-d14b.tinover.workers.dev&path=%2F#cf_US_1886
 vless://e6f4e063-0e35-40c4-8afa-b688909e534f@172.232.56.181:80?encryption=none&security=none&type=ws&host=hello-world-dawn-credit-d14b.tinover.workers.dev&path=%2F#80K_cf_FR_US
 vless://e6f4e063-0e35-40c4-8afa-b688909e534f@158.101.144.189:80?encryption=none&security=none&type=ws&host=hello-world-dawn-credit-d14b.tinover.workers.dev&path=%2F#test1
@@ -104,3 +101,16 @@ vless://e6f4e063-0e35-40c4-8afa-b688909e534f@158.178.242.56:80?encryption=none&s
 vless://e6f4e063-0e35-40c4-8afa-b688909e534f@158.178.242.5:80?encryption=none&security=none&type=ws&host=hello-world-dawn-credit-d14b.tinover.workers.dev&path=%2F#20240123
 vless://e6f4e063-0e35-40c4-8afa-b688909e534f@158.178.246.169:80?encryption=none&security=none&type=ws&host=hello-world-dawn-credit-d14b.tinover.workers.dev&path=%2F#20240123
 vless://e6f4e063-0e35-40c4-8afa-b688909e534f@47.236.130.95:80?encryption=none&security=none&type=ws&host=hello-world-dawn-credit-d14b.tinover.workers.dev&path=%2F#20240123
+vless://e6f4e063-0e35-40c4-8afa-b688909e534f@47.74.3.2:80?encryption=none&security=none&type=ws&host=hello-world-dawn-credit-d14b.tinover.workers.dev&path=%2F#20240124
+vless://e6f4e063-0e35-40c4-8afa-b688909e534f@47.74.54.33:80?encryption=none&security=none&type=ws&host=hello-world-dawn-credit-d14b.tinover.workers.dev&path=%2F#20240124
+vless://e6f4e063-0e35-40c4-8afa-b688909e534f@47.74.12.139:80?encryption=none&security=none&type=ws&host=hello-world-dawn-credit-d14b.tinover.workers.dev&path=%2F#20240124
+vless://e6f4e063-0e35-40c4-8afa-b688909e534f@8.209.243.172:80?encryption=none&security=none&type=ws&host=hello-world-dawn-credit-d14b.tinover.workers.dev&path=%2F#20240124
+vless://e6f4e063-0e35-40c4-8afa-b688909e534f@47.74.11.9:80?encryption=none&security=none&type=ws&host=hello-world-dawn-credit-d14b.tinover.workers.dev&path=%2F#20240124
+vless://e6f4e063-0e35-40c4-8afa-b688909e534f@47.242.155.183:80?encryption=none&security=none&type=ws&host=hello-world-dawn-credit-d14b.tinover.workers.dev&path=%2F#20240124
+vless://e6f4e063-0e35-40c4-8afa-b688909e534f@8.218.136.25:80?encryption=none&security=none&type=ws&host=hello-world-dawn-credit-d14b.tinover.workers.dev&path=%2F#20240124
+vless://e6f4e063-0e35-40c4-8afa-b688909e534f@8.217.167.88:80?encryption=none&security=none&type=ws&host=hello-world-dawn-credit-d14b.tinover.workers.dev&path=%2F#20240124
+vless://e6f4e063-0e35-40c4-8afa-b688909e534f@47.74.13.94:80?encryption=none&security=none&type=ws&host=hello-world-dawn-credit-d14b.tinover.workers.dev&path=%2F#20240124
+vless://e6f4e063-0e35-40c4-8afa-b688909e534f@47.245.10.123:80?encryption=none&security=none&type=ws&host=hello-world-dawn-credit-d14b.tinover.workers.dev&path=%2F#20240124
+vless://e6f4e063-0e35-40c4-8afa-b688909e534f@47.245.37.12:80?encryption=none&security=none&type=ws&host=hello-world-dawn-credit-d14b.tinover.workers.dev&path=%2F#20240124
+vless://e6f4e063-0e35-40c4-8afa-b688909e534f@8.218.8.142:80?encryption=none&security=none&type=ws&host=hello-world-dawn-credit-d14b.tinover.workers.dev&path=%2F#20240124
+vless://e6f4e063-0e35-40c4-8afa-b688909e534f@47.74.5.150:80?encryption=none&security=none&type=ws&host=hello-world-dawn-credit-d14b.tinover.workers.dev&path=%2F#20240124
