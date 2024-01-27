@@ -11,8 +11,6 @@ vless://e6f4e063-0e35-40c4-8afa-b688909e534f@8.222.150.197:80?encryption=none&se
 vless://e6f4e063-0e35-40c4-8afa-b688909e534f@158.178.242.56:80?encryption=none&security=none&type=ws&host=hello-world-dawn-credit-d14b.tinover.workers.dev&path=%2F#test1
 vless://e6f4e063-0e35-40c4-8afa-b688909e534f@103.79.79.192:80?encryption=none&security=none&type=ws&host=hello-world-dawn-credit-d14b.tinover.workers.dev&path=%2F#prefferd_cf_US_2446
 vless://e6f4e063-0e35-40c4-8afa-b688909e534f@69.84.182.168:80?encryption=none&security=none&type=ws&host=hello-world-dawn-credit-d14b.tinover.workers.dev&path=%2F#prefferd_cf_Florida%2C%20United%20States-%3E%E7%BE%8E%E5%9B%BD%E5%8A%A0%E5%88%A9%E7%A6%8F%E5%B0%BC%E4%BA%9A%E5%9C%A3%E4%BD%95%E5%A1%9E%20Cloudflare
-trojan://8cd6725efc@download1.jptk.dl.amovie.net:443?security=tls&type=tcp&headerType=none&host=download1.jptk.dl.amovie.net#download1.jptk.dl.amovie.net
-trojan://8cd6725efc@download1.jptk.dl.amovie.net:443?security=tls&type=tcp&headerType=none&host=download1.jptk.dl.amovie.net#download1.jptk.dl.amovie.net
 vless://e6f4e063-0e35-40c4-8afa-b688909e534f@155.94.201.144:80?encryption=none&security=none&type=ws&host=hello-world-dawn-credit-d14b.tinover.workers.dev&path=%2F#cf_US_2455
 vless://e6f4e063-0e35-40c4-8afa-b688909e534f@142.54.178.213:80?encryption=none&security=none&type=ws&host=hello-world-dawn-credit-d14b.tinover.workers.dev&path=%2F#cf_US_1888
 vless://e6f4e063-0e35-40c4-8afa-b688909e534f@63.141.252.205:80?encryption=none&security=none&type=ws&host=hello-world-dawn-credit-d14b.tinover.workers.dev&path=%2F#cf_US_1887
