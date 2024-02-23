@@ -15,8 +15,7 @@ dns:
   listen: 0.0.0.0:1053
   ipv6: true
   default-nameserver:
-    - 223.5.5.5
-    - 114.114.114.114
+    - 1.1.1.1
   enhanced-mode: fake-ip
   fake-ip-range: 198.18.0.1/16
   fake-ip-filter:
